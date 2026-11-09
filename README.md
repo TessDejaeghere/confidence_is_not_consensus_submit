@@ -49,7 +49,7 @@ duplicate check shows its stored result.
 Notes on how the data are used (all documented in the notebooks):
 
 * Three spans that an annotator accidentally labelled twice (same span, same label) are counted once.
-* One Dutch article was annotated twice, in two different pools (`iaa_nl:285645` and `elke_solo_nl:335223`,
+* One Dutch article was annotated twice, in two different pools (`iaa_nl:285645` and `e2_solo_nl:335223`,
   same URL in `texts.csv`); the notebooks keep the first copy only (`EXCLUDE_TEXTS`), giving 67 distinct texts.
 * The stored log-probability `consistency` column was computed per prompt template and then averaged. The
   notebooks recompute this confidence on the template-averaged label distribution, as described in §2.5 of the

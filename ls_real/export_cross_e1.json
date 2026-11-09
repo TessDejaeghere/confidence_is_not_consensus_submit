@@ -391,12 +391,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "c3d21d39-cross_for_cira_tasks.json",
+  "file_upload": "c3d21d39-cross_for_e1_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Elke.json",
+   "source_file": "E2.json",
    "orig_task_id": 335320
   },
   "meta": {},
