@@ -18,11 +18,11 @@ import pandas as pd
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 D = os.path.join(HERE, 'ls_real')
-POOLS = [('iaa', 'export_reann_cira.json', 'export_reann_elke.json'),
-         ('cira_solo', 'export_hesretro_cira.json', 'export_cross_elke.json'),
-         ('elke_solo', 'export_hesretro_elke.json', 'export_cross_cira.json'),
-         ('iaa_nl', 'export_reann_elke_nl.json', 'export_reann_a3.json'),
-         ('elke_solo_nl', 'export_hesretro_elke_nl.json', 'export_cross_a3.json')]
+POOLS = [('iaa', 'export_reann_e1.json', 'export_reann_e2.json'),
+         ('e1_solo', 'export_hesretro_e1.json', 'export_cross_e2.json'),
+         ('e2_solo', 'export_hesretro_e2.json', 'export_cross_e1.json'),
+         ('iaa_nl', 'export_reann_e2_nl.json', 'export_reann_a3.json'),
+         ('e2_solo_nl', 'export_hesretro_e2_nl.json', 'export_cross_a3.json')]
 
 
 def read_source(path):

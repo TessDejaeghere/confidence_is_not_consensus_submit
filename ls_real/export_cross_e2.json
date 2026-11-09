@@ -295,12 +295,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [
    {
     "id": 80532,
-    "user": "tess.dejaeghere@ugent.be",
-    "created_username": "tess.dejaeghere@ugent.be, 644",
+    "user": "trained_a3@anonymised.invalid",
+    "created_username": "trained_a3@anonymised.invalid, 644",
     "created_ago": "3 weeks, 4 days",
     "result": [
      {
@@ -498,7 +498,7 @@
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335635
   },
   "meta": {},
@@ -1126,12 +1126,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335551
   },
   "meta": {},
@@ -1778,12 +1778,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335568
   },
   "meta": {},
@@ -2272,12 +2272,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335622
   },
   "meta": {},
@@ -2451,12 +2451,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335659
   },
   "meta": {},
@@ -2593,12 +2593,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [
    {
     "id": 84180,
-    "user": "elke.evrard@ugent.be",
-    "created_username": "elke.evrard@ugent.be, 1188",
+    "user": "expert_e2@anonymised.invalid",
+    "created_username": "expert_e2@anonymised.invalid, 1188",
     "created_ago": "21 hours, 28 minutes",
     "result": [
      {
@@ -2716,7 +2716,7 @@
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335653
   },
   "meta": {},
@@ -3344,12 +3344,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335663
   },
   "meta": {},
@@ -3486,12 +3486,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335567
   },
   "meta": {},
@@ -4110,12 +4110,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335642
   },
   "meta": {},
@@ -4752,12 +4752,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335550
   },
   "meta": {},
@@ -4968,12 +4968,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [
    {
     "id": 84178,
-    "user": "elke.evrard@ugent.be",
-    "created_username": "elke.evrard@ugent.be, 1188",
+    "user": "expert_e2@anonymised.invalid",
+    "created_username": "expert_e2@anonymised.invalid, 1188",
     "created_ago": "21 hours, 33 minutes",
     "result": [
      {
@@ -5003,7 +5003,7 @@
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335570
   },
   "meta": {},
@@ -5477,12 +5477,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335638
   },
   "meta": {},
@@ -5952,12 +5952,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335345
   },
   "meta": {},
@@ -6705,12 +6705,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335340
   },
   "meta": {},
@@ -6958,12 +6958,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335562
   },
   "meta": {},
@@ -7424,12 +7424,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335607
   },
   "meta": {},
@@ -7983,12 +7983,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335341
   },
   "meta": {},
@@ -8116,12 +8116,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335334
   },
   "meta": {},
@@ -8684,12 +8684,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335571
   },
   "meta": {},
@@ -9030,12 +9030,12 @@
     "last_created_by": null
    }
   ],
-  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "file_upload": "7d21de3c-cross_for_e2_tasks.json",
   "drafts": [],
   "predictions": [],
   "data": {
    "arm": "cross",
-   "source_file": "Cira.json",
+   "source_file": "E1.json",
    "orig_task_id": 335343
   },
   "meta": {},
